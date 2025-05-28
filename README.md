@@ -8,9 +8,8 @@ Dự án **viet_summarizer** xây dựng mô hình tóm tắt văn bản tiếng
 
 Ứng dụng chạy trên nền web sử dụng [Streamlit](https://streamlit.io/), giúp người dùng dễ dàng tóm tắt văn bản tiếng Việt qua giao diện trực quan.
 
-Luồng xử lý : <div style="background:white; display:inline-block; padding:10px;">
-  <img src="https://github.com/kilan7mau/viet_summarizer/raw/master/Mermaid_Chart.svg" width="600"/>
-</div>
+Luồng xử lý : ![Mermaid Chart](https://github.com/kilan7mau/viet_summarizer/raw/master/Mermaid_Chart.svg)
+
 
 
 
