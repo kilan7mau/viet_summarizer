@@ -35,7 +35,7 @@ class Evaluate:
             vectors1 = [(np.dot(S1, U1[0, :]), np.dot(S1, U1[i, :])) for i in range(len(U1))]
             angles = [np.arccos(np.dot(a, b) / (norm(a, 2) * norm(b, 2))) for a in vectors0 for b in vectors1]
 
-            return abs(1 - float(angles[1]) / float(pi / 2))
+            return abs(1 - float(angles[1]) / float(np.pi / 2))
         except:
             print("Bug with semantic based evaluation")
             return 0.5
