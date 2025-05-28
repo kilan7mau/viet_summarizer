@@ -7,7 +7,7 @@ Dự án **viet_summarizer** xây dựng mô hình tóm tắt văn bản tiếng
 - **LSA** (Latent Semantic Analysis)
 
 Ứng dụng chạy trên nền web sử dụng [Streamlit](https://streamlit.io/), giúp người dùng dễ dàng tóm tắt văn bản tiếng Việt qua giao diện trực quan.
-
+Luồng xử lý : https://www.mermaidchart.com/raw/e194e709-83e6-41b8-89d5-d0c3c779c6ad?theme=light&version=v0.1&format=svg
 ## Cách chạy ứng dụng
 1. **Cài đặt các thư viện cần thiết:**
    - numpy, pandas, matplotlib
