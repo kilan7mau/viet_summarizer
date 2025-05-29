@@ -8,6 +8,11 @@ Dự án **viet_summarizer** xây dựng mô hình tóm tắt văn bản tiếng
 
 Ứng dụng chạy trên nền web sử dụng [Streamlit](https://streamlit.io/), giúp người dùng dễ dàng tóm tắt văn bản tiếng Việt qua giao diện trực quan.
 
+Luồng xử lý : ![Mermaid Chart](https://github.com/kilan7mau/viet_summarizer/raw/master/Mermaid_Chart.svg)
+
+
+
+
 ## Cách chạy ứng dụng
 1. **Cài đặt các thư viện cần thiết:**
    - numpy, pandas, matplotlib
